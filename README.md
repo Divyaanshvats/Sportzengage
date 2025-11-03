@@ -14,22 +14,6 @@ It processes every frame of the video, detects human keypoints (shoulders, wrist
 
 ## 📂 Project Structure
 
-SportzEngage/
-│
-├── data/
-│ └── net_session.mp4 ← Input video (cricket net session)
-│
-├── src/
-│ └── pipeline_mediapipe.py ← Main Python script
-│
-├── CRICKET_ANALYSIS_RESULTS/ ← Auto-created output folder
-│ ├── batsman_stance.csv ← Frame-wise stance results
-│ ├── batsman_labeled.mp4 ← Labeled video output
-│ └── stance_plot.png ← Timeline graph
-│
-└── README.md ← This file
-
-
 
 ---
 
